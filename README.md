@@ -12,7 +12,7 @@ Material UI;
 
 ![Dashboard e informação dos cards](https://i.imgur.com/hDTQALi.png "Dashboard e informação dos cards")
 
-## Apresentas os cards :
+## Cards apresentados no Dasboard :
 Total de casos |Óbitos Hoje | Casos Hoje | Total de mortos | Total de recuperados | Casos por Milhão | Total de Testes por Milhão
 
 Selecione um país ou "No Mundo" para ver as estatísticas de um determinado páis e/ou total geral no mundo.
