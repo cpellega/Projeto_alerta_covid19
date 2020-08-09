@@ -6,11 +6,11 @@ O projeto consome a API
 (https://coronavirus-19-api.herokuapp.com/countries) com dados de  diversos países e mostrando um dashboard com cards de informações de dados para análise de cada país e/ou Total no mundo.
 
 Bibliotecas e tecnologias utilizadas:
-Reactjs;
-PWA;
+React;
+PWA (Progressive Web Application);
 Material UI;
 
-![Dashboard COVID-19](https://imgur.com/fcy9hSm "Dashboard COVID-19")
+![Dashboard e informação dos cards](https://i.imgur.com/hDTQALi.png "Dashboard e informação dos cards")
 
 Apresentas os cards : 
 Total de casos 
@@ -21,9 +21,10 @@ Total de recuperados
 Casos por Milhão
 Total de Testes por Milhão
 
-Selecione um país ou "No Mundo" para ver as estatísticas de um determinado páis e total geral no mundo.
+Selecione um país ou "No Mundo" para ver as estatísticas de um determinado páis e/ou total geral no mundo.
+![Dashboard por país ou total no mundo](https://i.imgur.com/a6CbykM.png "Dashboard por país ou total no mundo")
 
-[![Seleção páis ou "No Mundo"](https://imgur.com/L8h01GF "Seleção páis ou "No Mundo"")](https://imgur.com/L8h01GF "Seleção páis ou "No Mundo"")
+Gerenciador de pacotes yarn
 
 No diretório do projeto, você pode executar:
 yarn start
