@@ -12,13 +12,20 @@ Material UI;
 
 ![Dashboard e informação dos cards](https://i.imgur.com/hDTQALi.png "Dashboard e informação dos cards")
 
-Apresentas os cards : 
-Total de casos 
-Óbitos Hoje 
+Apresentas os cards :
+
+Total de casos
+
+Óbitos Hoje
+
 Casos Hoje
+
 Total de mortos
+
 Total de recuperados
+
 Casos por Milhão
+
 Total de Testes por Milhão
 
 Selecione um país ou "No Mundo" para ver as estatísticas de um determinado páis e/ou total geral no mundo.
@@ -27,6 +34,7 @@ Selecione um país ou "No Mundo" para ver as estatísticas de um determinado pá
 Gerenciador de pacotes yarn
 
 No diretório do projeto, você pode executar:
+
 yarn start
 
 Executar o aplicativo no modo de desenvolvimento.
